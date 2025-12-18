@@ -49,6 +49,10 @@ Of course, simply press numpad plus/minus to change the voiceover volume. To mut
 
 This is a vanilla bug that seems to happen more frequently in Frosted Winter. Simply pausing and unpausing should fix it!
 
+- **When I try and boot the game, it just sits idle in task manager instead**
+
+This vanilla bug is solved by heading to gta3.exe -> right click -> properties -> compatibility -> change DPI settings -> tick "high DPI scaling override"
+
 - **Does this project use AI?**
 
 Being fully transparent, this project uses AI twice. The first being the credits song (it's sadly not viable for us to pay someone to or create our own music from scratch), and the second being a very small part of the voiceover. Joey/Luigi/Toni/Mickey are AI generated, but everyone else (around 95% of the total cast) are all voiced by members of the community as you can see in the Credits section. We have made every effort to make the best mod we can with as much human involvement as possible.
