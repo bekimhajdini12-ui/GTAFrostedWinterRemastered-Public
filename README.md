@@ -89,6 +89,7 @@ WIP
 - DinosaurBytes (for their help with this project, and letting me steal some fixes from [Tightened Thrice](https://gtaforums.com/topic/989421-tightened-thrice/))
 - Style4007 (for helping write the code, creating tools to automate processes, and teaching me a tonne about GTA scripting)
 - myamai (for creating the awesome art you see throughout the project)
+- Mafia Game Videos (for helping us with the voiceover)
 - davi (for their contributions via eASIer)
 - HackMan128 (for making [eASIer](https://www.gtagarage.com/mods/show.php?id=26424))
 - AG (for making [Classic Axis](https://gtaforums.com/topic/896122-classic-axis-for-gta-iii-and-gta-vc/))
