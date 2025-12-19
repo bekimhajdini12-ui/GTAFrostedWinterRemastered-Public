@@ -51,7 +51,11 @@ This is a vanilla bug that seems to happen more frequently in Frosted Winter. Si
 
 - **When I try and boot the game, it just sits idle in task manager instead**
 
-This vanilla bug is solved by heading to gta3.exe -> right click -> properties -> compatibility -> change DPI settings -> tick "high DPI scaling override"
+This vanilla bug is solved by heading to gta3.exe -> right click -> properties -> compatibility -> change DPI settings -> tick "high DPI scaling override".
+
+- **The game boots, but I cannot move my mouse in-game**
+
+The game might have set your in-game sensitivity to zero, just head to mouse settings in-game and change it.
 
 - **Does this project use AI?**
 
