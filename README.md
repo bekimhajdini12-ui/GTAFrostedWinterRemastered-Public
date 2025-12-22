@@ -61,6 +61,10 @@ The game might have set your in-game sensitivity to zero, just head to mouse set
 
 Change your in-game language to English :)
 
+- **I can't find the final hidden package**
+
+We fixed these late in development but sadly one slipped through the cracks before 1.0. There's a package out of bounds, if you use a teleporter to teleport to 1232.375 1229.625 33.5475 you'll be able to grab it.
+
 - **Does this project use AI?**
 
 Being fully transparent, this project uses AI twice. The first being the credits song (it's sadly not viable for us to pay someone to or create our own music from scratch), and the second being a very small part of the voiceover. Joey/Luigi/Toni/Mickey are AI generated, but everyone else (around 95% of the total cast) are all voiced by members of the community as you can see in the Credits section. We have made every effort to make the best mod we can with as much human involvement as possible.
