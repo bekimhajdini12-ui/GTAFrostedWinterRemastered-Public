@@ -73,8 +73,6 @@ Bonuses - 776.125 1073.188 139.0625 / -972.8125 1025.25 90.5625 / -907.875 781.0
 
 This is an annoying bug we've yet to fix as it's extremely rare and I cannot reproduce it on my end, but there is a workaround to fix it:
 
-A sort of workaround has been found which prevents the need to restart your playthrough:
-
 - Re-copy the main.scm into your data folder
 - Start a new game (if your save is an autosave, make sure you don't progress too far in the intro and overwrite it. Make a copy of your save if you want to be really safe)
 - Load your broken save
